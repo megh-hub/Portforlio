@@ -1,0 +1,107 @@
+
+.box1{
+background-color: rgb(24, 24, 24);
+font-family: "Rubik","Arial",sans-serif;
+color:white;
+margin:auto;
+width: 100%;
+overflow: hidden;
+}
+
+
+.logo{
+    min-height: 70px;
+    padding-top:20px;
+    padding-left:50px;
+    font-weight:300;
+    font-size: 28px;
+    float: left;
+}
+ul{
+    margin: 0;
+    padding:0;
+}
+li{
+    float:right;
+    display: inline;
+    padding:60px 20px 0 0;
+    font-size:20px;  
+}
+a:link{
+    color:rgb(156, 156, 156);
+    text-decoration:none;
+}
+a:visited{
+    color:rgb(68, 89, 209);
+    text-decoration: none;
+}
+
+.hey{
+    padding-top:250px;
+    padding-bottom:20px;
+    padding-left:100px;
+    font-weight: 200;
+    font-size:64px;
+    text-align: left;
+}
+.description{
+    color:rgb(156, 156, 156);
+    font-size:34px;
+    padding-left: 100px;
+    padding-bottom:20px;
+    text-align: centre;
+}
+.bn{
+    display: inline-block;
+    padding: 26px 48px;
+    margin-left: 100px;
+    font-size: 34px;
+    cursor: pointer;
+    background: rgb(68, 89, 209);
+    color:white;
+    border:none;
+    border-radius:60px;
+}
+.image{
+    float:right;
+    padding-top: 200px;
+    padding-right:30px;
+    
+}
+h2{
+    padding-top:100px;
+    font-size:52px;
+    padding-left:100px;
+}
+.line{
+    font-size:28px;
+    color:rgb(156, 156, 156);
+    padding-left:100px;
+    padding-bottom:10px;
+}
+.btn{
+    margin-left: 100px;
+    font-size:28px;
+    display: inline-block;
+    padding: 15px 40px;
+    cursor: pointer;
+    background: rgb(68, 89, 209);
+    color:white;
+    border:none;
+    border-radius:40px;
+    padding-bottom:20px;
+}
+.table{
+    float:right;
+}
+footer p{
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom:20px;
+
+}
+
+
+    
